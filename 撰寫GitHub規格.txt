@@ -1,0 +1,7 @@
+﻿Commit Message 以版本方式撰寫
+	EX: (1)如果新增檔案 輸入: 新增XXX Ver1.0
+	    (2)如果編輯資料 輸入: 編輯XXX Ver1.X
+	    (3)如果覆蓋檔案 輸入: 覆蓋XXX Ver2.0
+	    (4)如果刪除檔案 輸入: 刪除XXX VerX.X
+
+Extended Description 以做什麼撰寫 大致上描述
